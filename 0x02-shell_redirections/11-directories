@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1A | wc -l | tree -a
+find d -mindepth 1 | wc -l
