@@ -1,3 +1,2 @@
 #!/bin/bash
-#ls -1A | wc -l
-tree -a
+ls -1A | wc -l | tree -a
