@@ -1,2 +1,2 @@
 #!/bin/bash
-replace (([Ac])/, Ze)
+replace (/[Ac])/, Ze);
